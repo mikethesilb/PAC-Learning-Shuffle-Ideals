@@ -1,0 +1,3 @@
+# PAC Learning Regular Languages: Shuffle Ideals
+
+This project implements an approach based on a research paper that addresses the problem of learning regular languages from examples. Regular languages have applications in natural language processing, robotics, and more. The research proposes a modified learning model and a new method using probabilistic finite state automata. The implemented Python code allows for learning shuffle ideals, a specific type of regular language. While efficient learning is challenging, the project provides tools for approximate learning under certain conditions. The code's practical applications include tasks in formal language theory and cryptography.
